@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "techinpark",
+      "name": "Fernando",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/45546296?v=4",
+      "profile": "http://fernando.kr",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
