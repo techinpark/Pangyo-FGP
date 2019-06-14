@@ -1,5 +1,6 @@
  ## Pangyo-FGP ? <img src = "https://i.imgur.com/J7hGHUH.png" width = 60  align = right> 
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+
 `Pangyo-FGP` 는 `Pangyo Food Good Place` 의 약자입니다. 매일 점심 같은곳에서만 드시는것도 질리셨죠?   
 어딘지 잘 모르는곳에 가서 후회하는일이 생기지 않도록 도와드릴게요.  
 판교에 위치한 음식점들을 객관적으로 실제 가본사람들 아니면 모르는 정보들을 함께 나누고 공유하기 위해 만든 프로젝트입니다.  
@@ -20,11 +21,6 @@
  - [H스퀘어 맛집 리스트](./H스퀘어/list.md)
  - [유스페이스 맛집 리스트](./유스페이스/list.md)
  - [삼환하이펙스 맛집 리스트](./삼환하이펙스/list.md)
-
-
-## 여러분들과 함께 만들어 갑니다 
-
-
 
 ## Contributors
 
