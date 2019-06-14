@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "topjung3",
+      "name": "Heesu Jung",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2057348?v=4",
+      "profile": "https://github.com/topjung3",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Pangyo-FGP",
+  "projectOwner": "techinpark",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
